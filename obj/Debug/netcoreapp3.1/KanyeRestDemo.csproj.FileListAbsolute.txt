@@ -1,0 +1,15 @@
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\KanyeRestDemo.exe
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\KanyeRestDemo.deps.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\KanyeRestDemo.runtimeconfig.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\KanyeRestDemo.runtimeconfig.dev.json
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\KanyeRestDemo.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\KanyeRestDemo.pdb
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.csprojAssemblyReference.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.AssemblyInfoInputs.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.AssemblyInfo.cs
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.csproj.CopyComplete
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.dll
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.pdb
+C:\Users\Johanna\Desktop\Repo C#\myproject\KanyeRestDemo\KanyeRestDemo\obj\Debug\netcoreapp3.1\KanyeRestDemo.genruntimeconfig.cache

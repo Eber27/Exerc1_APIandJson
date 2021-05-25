@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2bPkcuuqDHPlvPKUClKz5ne9FIhUE+kjtksLD7KIZiolxqOExF6HIp0t1Nt8vETBgb5h0fyjwiKtn1jj5LuiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johanna\\Desktop\\Repo C#\\myproject\\KanyeRestDemo\\KanyeRestDemo\\KanyeRestDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johanna\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
